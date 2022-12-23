@@ -1,2 +1,2 @@
 # xmas
-That christmas star challenge, but in Rust.
+That christmas star challenge.
